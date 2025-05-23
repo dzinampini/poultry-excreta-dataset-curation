@@ -1,0 +1,10 @@
+{
+    "name": "Newcastle Disease",
+    "scientific_name": "Avian orthoavulavirus 1",
+    "disease_type": "viral",
+    "droppings": {
+        "color": "Greenish, white, or blood",
+        "texture": "Watery diarrhea"
+    },
+    "additional_signs": "Respiratory distress, twisted neck"
+}

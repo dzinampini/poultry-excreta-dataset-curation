@@ -1,0 +1,10 @@
+{
+    "name": "Yolk Sac Infection (Salmonella)",
+    "disease_type": "bacterial",
+    "scientific_name": "Omphalitis, E. coli, Salmonella, Staphylococcus, etc.",
+    "droppings": {
+        "color": "Yellowish, sometimes greenish",
+        "texture": "Pasty, foul-smelling"
+    },
+    "additional_signs": "Unabsorbed yolk, swollen abdomen in chicks"
+}

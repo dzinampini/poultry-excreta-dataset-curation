@@ -1,0 +1,10 @@
+{
+    "name": "Marek's Disease",
+    "scientific_name": "Gallid alphaherpesvirus 2",
+    "disease_type": "viral",
+    "droppings": {
+        "color": "Normal to greenish (if liver affected)",
+        "texture": "Semi-solid, sometimes loose"
+    },
+    "additional_signs": "Paralysis, enlarged nerves"
+}

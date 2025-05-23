@@ -1,0 +1,10 @@
+{
+    "name": "Roundworms",
+    "scientific_name": "Ascaridia spp.",
+    "disease_type": "parasitic",
+    "droppings": {
+        "color": "Pale yellow or whitish",
+        "texture": "Loose, watery, or mucus-covered"
+    },
+    "additional_signs": "Adult worms (spaghetti-like) in feces, Weight loss, reduced egg production"
+}

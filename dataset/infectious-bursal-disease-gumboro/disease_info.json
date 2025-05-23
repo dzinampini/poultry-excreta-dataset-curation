@@ -1,0 +1,10 @@
+{
+    "name": "Infectious Bursal Disease (Gumboro)",
+    "scientific_name": "Avibirnavirus",
+    "disease_type": "viral",
+    "droppings": {
+        "color": "Watery white or yellowish diarrhea",
+        "texture": "Very watery, sometimes with mucus"
+    },
+    "additional_signs": "Blood or urates may appear in later stages"
+}

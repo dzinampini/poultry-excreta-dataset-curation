@@ -1,0 +1,8 @@
+{
+    "name": "Healthy",
+    "description": "Indicates no disease (normal condition).",
+    "droppings": {
+        "color": "Brown with white urates (normal)",
+        "texture": "Firm, well-formed"
+    }
+}

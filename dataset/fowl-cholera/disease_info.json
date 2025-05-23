@@ -1,0 +1,8 @@
+{
+    "name": "Fowl cholera",
+    "disease_type": "bacterial",
+    "droppings": {
+        "color": "Greenish-yellow (due to liver damage and bile release). May have blood streaks (intestinal hemorrhage).",
+        "texture": "Watery diarrhea (often profuse). Sometimes mucoid or sticky."
+    }
+}

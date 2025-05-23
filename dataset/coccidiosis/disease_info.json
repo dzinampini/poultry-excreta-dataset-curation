@@ -1,0 +1,10 @@
+{
+    "name": "Coccidiosis",
+    "scientific_name": "Eimeria spp. \u00e2\u20ac\u201c protozoan parasite",
+    "disease_type": "parasitic",
+    "droppings": {
+        "color": "Bloody (bright red or dark brown)",
+        "texture": "Watery or mucoid with blood clots"
+    },
+    "additional_signs": "Weight loss, ruffled feathers"
+}

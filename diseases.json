@@ -1,0 +1,117 @@
+[
+    {
+      "name": "Infectious Bursal Disease (Gumboro)",
+      "scientific_name": "Avibirnavirus",
+      "disease_type": "viral",
+      "droppings": {
+        "color": "Watery white or yellowish diarrhea",
+        "texture": "Very watery, sometimes with mucus"
+      },
+      "additional_signs": "Blood or urates may appear in later stages"
+    },
+    {
+      "name": "Fowlpox",
+      "scientific_name": "Avipoxvirus",
+      "disease_type": "viral",
+      "description": "droppings are not usually altered but might have changes caused by secondary bacterial infections. So we can use subcutaneous lesions on the face to detect it."
+    },
+
+    {
+      "name": "Marek's Disease",
+      "scientific_name": "Gallid alphaherpesvirus 2",
+      "disease_type": "viral",
+      "droppings": {
+        "color": "Normal to greenish (if liver affected)",
+        "texture": "Semi-solid, sometimes loose"
+      },
+      "additional_signs": "Paralysis, enlarged nerves"
+    },
+    {
+      "name": "Newcastle Disease",
+      "scientific_name": "Avian orthoavulavirus 1",
+      "disease_type": "viral",
+      "droppings": {
+        "color": "Greenish, white, or blood",
+        "texture": "Watery diarrhea"
+      },
+      "additional_signs": "Respiratory distress, twisted neck"
+    },
+    {
+      "name": "Infectious Coryza",
+      "scientific_name": "Avibacterium paragallinarum",
+      "disease_type": "bacterial",
+      "droppings": {
+        "color": "Yellowish-green",
+        "texture": "Sticky, mucoid"
+      },
+      "additional_signs": "Nasal discharge, facial swelling"
+    },
+    {
+      "name": "Fowl Typhoid",
+      "scientific_name": "Salmonella Gallinarum",
+      "disease_type": "bacterial",
+      "droppings": {
+        "color": "Greenish-yellow (bile-stained)",
+        "texture": "Watery or pasty"
+      },
+      "additional_signs": "Sudden death, cyanotic comb"
+    },
+    {
+      "name": "Yolk Sac Infection (Salmonella)",
+      "disease_type": "bacterial",
+      "scientific_name": "Omphalitis, E. coli, Salmonella, Staphylococcus, etc.",
+      "droppings": {
+        "color": "Yellowish, sometimes greenish",
+        "texture": "Pasty, foul-smelling"
+      },
+      "additional_signs": "Unabsorbed yolk, swollen abdomen in chicks"
+    },
+    {
+      "name": "Fowl cholera",
+      "disease_type": "bacterial",
+      "droppings": {
+        "color": "Greenish-yellow (due to liver damage and bile release). May have blood streaks (intestinal hemorrhage).",
+        "texture": "Watery diarrhea (often profuse). Sometimes mucoid or sticky."
+      }
+    },
+    {
+      "name": "Coccidiosis",
+      "scientific_name": "Eimeria spp. – protozoan parasite",
+      "disease_type": "parasitic",
+      "droppings": {
+        "color": "Bloody (bright red or dark brown)",
+        "texture": "Watery or mucoid with blood clots"
+      },
+      "additional_signs": "Weight loss, ruffled feathers"
+    },
+    {
+      "name": "Roundworms",
+      "scientific_name": "Ascaridia spp.",
+      "disease_type": "parasitic",
+      "droppings": {
+        "color": "Pale yellow or whitish",
+        "texture": "Loose, watery, or mucus-covered"
+      },
+      "additional_signs": "Adult worms (spaghetti-like) in feces, Weight loss, reduced egg production"
+    },
+    {
+      "name": "Tapeworms",
+      "scientific_name": "Raillietina spp., Davainea spp.",
+      "disease_type": "parasitic",
+      "droppings": {
+        "color": "Normal to yellowish",
+        "texture": "Grainy (may contain rice-like tapeworm segments)"
+      },
+      "additional_signs": "White proglottids (segments) in droppings, Poor growth, lethargy"
+    },
+    {
+      "name": "Healthy",
+      "description": "Indicates no disease (normal condition).",
+      "droppings": {
+        "color": "Brown with white urates (normal)",
+        "texture": "Firm, well-formed"
+      }
+    }
+]
+
+

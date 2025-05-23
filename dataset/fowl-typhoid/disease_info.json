@@ -1,0 +1,10 @@
+{
+    "name": "Fowl Typhoid",
+    "scientific_name": "Salmonella Gallinarum",
+    "disease_type": "bacterial",
+    "droppings": {
+        "color": "Greenish-yellow (bile-stained)",
+        "texture": "Watery or pasty"
+    },
+    "additional_signs": "Sudden death, cyanotic comb"
+}

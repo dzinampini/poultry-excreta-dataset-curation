@@ -1,0 +1,10 @@
+{
+    "name": "Tapeworms",
+    "scientific_name": "Raillietina spp., Davainea spp.",
+    "disease_type": "parasitic",
+    "droppings": {
+        "color": "Normal to yellowish",
+        "texture": "Grainy (may contain rice-like tapeworm segments)"
+    },
+    "additional_signs": "White proglottids (segments) in droppings, Poor growth, lethargy"
+}

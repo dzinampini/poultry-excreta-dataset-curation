@@ -1,0 +1,10 @@
+{
+    "name": "Infectious Coryza",
+    "scientific_name": "Avibacterium paragallinarum",
+    "disease_type": "bacterial",
+    "droppings": {
+        "color": "Yellowish-green",
+        "texture": "Sticky, mucoid"
+    },
+    "additional_signs": "Nasal discharge, facial swelling"
+}
